@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<!--[if IE 8]>			<html class="ie ie8"> <![endif]-->
+<!--[if IE 9]>			<html class="ie ie9"> <![endif]-->
+<!--[if gt IE 9]><!-->	<html> <!--<![endif]-->
+<head>
+
+	<!-- Meta -->
+	<meta charset="utf-8">
+	<meta name="keywords" content="HTML5 Template" />
+	<meta name="description" content="Heartify - Responsive HTML5 Landing Page">
+	<meta name="author" content="">
+
+	<title>Heartify - Responsive Single Page Bootstrap Template</title>
+
+	<!-- Mobile Metas -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!-- Favicons -->
+	<link rel="shortcut icon" href="img/favicon.ico">
+	<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="img/apple-touch-icon-144x144.png">
+
+       <link href='http://fonts.googleapis.com/css?family=Roboto:900,500,900italic,400italic,100,700italic,300,700,500italic,100italic,300italic,400&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<!-- Website fonts -->
+	<link href='http://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' type='text/css'>
+
+	<!-- Vendor CSS Sheets -->
+	<link rel="stylesheet" href="assets/css/fonts/font-awesome.min.css">
+	<link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<link href="assets/css/style.css" rel="stylesheet">
+	<link href="assets/css/responsive-styling.css" rel="stylesheet">
+	<link rel="stylesheet" href="assets/vendor/owl-carousel/owl-carousel/owl.carousel.css">
+	<link rel="stylesheet" href="assets/vendor/owl-carousel/owl-carousel/owl.theme.css">
+	<link href="assets/css/YTPlayer.css" media="all" rel="stylesheet">
+	<link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" media="all" rel="stylesheet">
+	<link rel="stylesheet" href="assets/vendor/layerslider/css/layerslider.css" type="text/css">
+
+	<!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+<body id="blog-content">
+
+<!-- Home Section -->
+<div class="main-wrapper">
+	<div id="home">
+		<div id="bg-slider-home" class="bsh">
+		</div>
+		<!--  Background Slider Main ENds -->
+		<div class="container bs-main">
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1 col-lg-10 col-lg-offset-1">
+					<div class="logo hidden-sm hidden-md hidden-lg"><a href="index.html"><img src="assets/img/logo/heartify-logo-lite.png" alt="Heartify" /></a></div>
+					<!-- Top Header and Navigation -->
+					<div class="top-header hidden-xs">
+						<div class="top-navigation">
+							<ul class="top-nav list-unstyled list-inline">
+								<li><a href="index.html#home">Anasayfa</a></li>
+								<li><a href="index.html#about">HAKKIMIZDA</a></li>
+								<li><a href="index.html#team">BAU NRS EKİBİ</a></li>
+								<li class="logo"><a href="index.html"><img src="assets/img/logo/heartify-logo-lite.png" alt="Heartify" /></a></li>
+								<li><a href="index.html#blog">HABERLER</a></li>
+								<li><a href="index.html#pricing">VİDEOLAR</a></li>
+								<li><a href="#contact">İLETİŞİM</a></li>
+							</ul>
+						</div>
+						<!-- top navigation div -->
+					</div>
+					<!-- top header div -->
+				</div>
+				<!-- Column Count div -->
+			</div>
+		</div>
+	</div>
+	<!-- Home Section -->
+</div>
+<div class="page-head">
+	<div class="container">
+		<div class="col-md-9">
+			<h3>GAMMA KNIFE </h3>
+		
+		</div>
+		
+	</div>
+</div>
+<div class="blog-content">
+	<div class="container">
+		<div class="col-md-9">
+			<article>
+				<img src="assets/img/blog/30.jpg" class="img-responsive" alt=""/>
+				<div class="bottom-space-30"></div>
+				<div class="clearfix"></div>
+			<p>
+           Gamma knife beyin cerrahlarının beynin anormal alanlarında, herhangi bir kesiye gerek kalmadan ameliyat yapabilmelerine olanak sağlayan bir yöntemdir. Gamma knife, stereotaktik radyocerrahi adı verilen bir teknik kullanarak uygulanır.Gamma knife, koordinatları belirlenmiş hastalıklı beyin dokusunun, gamma ışınları ile yok edilmesini sağlayan bir tedavi sistemidir. Sistem, temel olarak her biri kendi başına normal beyin dokusunu zedelemeyecek enerjiye sahip 201 adet küresel yerleşimli ve ayrı kaynaktan gelen ışınların bir noktada (hastalıklı beyin dokusunda) birleşerek çok yüksek bir enerjiyi hastalıklı dokuya aktarması ve bu dokuyu ortadan kaldırması prensibine dayanır. Bu nedenle radyasyon tedavisinden farklılık gösteren bu cerrahi yöntemde tedavi tek seansta tamamlanır. Genellikle açık beyin cerrahisinin mümkün olmadığı ya da yüksek risk taşıdığı durumlarda tercih edilen bir yöntemdir. Gamma knife cerrahisinin etkinliği tedavide kullanılan makinenin duyarlılığına ve beyin içindeki anormal dokuyu saptamak için kullanılan yöntemlere bağlıdır. Hastaya stereotaktik çerçevenin uygulanması ile tümörün yeri tam olarak saptanırken hastanın da makinenin içinde gereken pozisyonda tutulması sağlanır. Türkiye de dünyada gamma knife uygulaması yapılan yüzden fazla merkezden biridir.
+
+<h5>Tedavisi yeni bir tedavi çeşidi midir?
+
+Hayır. Bu tedavi şekli 30 yıldan uzun bir süredir dünyanın çeşitli merkezlerinde uygulanmaktadır ve şimdiye kadar yüz binden çok hasta bu yöntemle tedavi edilmiştir. Beyni etkileyen hastalıkların tedavisinde kullanılan en gelişkin tekniklerden biri olan gamma knire, stereotaktik radyocerrahinin “altın standardı” olarak kabul edilmektedir.
+
+<h5>Tedavi nasıl yapılır?
+
+Öncelikle başın sabit tutulabilmesi için kafaya bir metal çerçeve sabitlenir. Bu, tedavinin doğru olarak yapılabilmesi ve radyasyonun tam gereken yere verilebilmesi için hayati önem taşır. Hafif bir kahvaltının ardından hastaneye gelen hastaya yaklaşık 10 dakika içinde metal çerçevesi uygulanır. Bu işlem sırasında çerçevenin kafaya yerleştirildiği bölgelere lokal anestezi uygulanır. Çerçevenin iyice yerleştiğinden emin olunduktan sonra sıra görüntü almaya gelir. Hastalıklı alanın görüntüsü alındıktan sonra da sıra tedaviye gelmiştir. Çerçevede gereken pozisyon alınır, hasta tedavi makinasına yerleştirilip mümkün olduğunca rahat ettirilir. Yapılacak işlemler kendisine anlatılır. Daha sonra hasta makinanın içine doğru kaydırılır ve ışın tedavisine başlanır. Her bir ışın gerekli sürede doğru yere verildikten sonra hasta makinadan çıkartılır, çerçevesi alınır ve serviste izleme alınır.
+
+<h5>Hangi tip beyin tümörleri tedavi edilebilir?
+
+Gamma knife ile hem iyi huylu beyin tümörleri (menenjiomalar, hipofiz adenomları, akustik nöromalar) hem de kötü huylu beyin tümörleri (beyin metastazları, glial tümörler) tedavi edilebilmektedir. Ayrıca gamma knife beyin tümörü dışında, damarsal beyin hastalıkları (arteriovenöz malformasyonlar) ve fonksiyonel beyin hastalıklarında (trigeminal nevralji, parkinsonizm, epilepsi) da kullanılmaktadır.
+
+<h5>Akustik nöromalarda uygulanışı nasıldır?
+
+Akustik nöromalar 8. siniri kaplayan dokudan köken alırlar ve beyincik ile pons arasındaki açıda bulunurlar. İlerleyici akustik nöromalarda gamma knife cerrahisi ile çok başarılı sonuçlar alınmıştır. Aynı zamanda akustik sinir, yüz siniri ve trigeminal sinirlerin fonksiyonlarının korunmasında da başarılı olunmuştur. Gamma knife hem tek taraflı hem de çift taraflı tümörlerden çapı en fazla 3 cm olanlarda uygulanabilir. Burada tedavinin amacı tümörün tamamen çıkartılmasından ziyade tümör büyümesinin önlenmesidir. Aynı zamanda kalmışsa olan işitme yeteneğinin korunması da amaçlanmalıdır. Gamma knife ile yapılan stereotaktik cerrahi bu tümörlerde yaklaşık 30 yıldan bu yana uygulanmaktadır ve bütün dünyada yaklaşık 10 000 hasta bu şekilde tedavi edilmiştir.
+
+<h5>Menenjiomalarda uygulanışı nasıldır?
+
+Menenjiomalar beyni örten zarlardan, meninkslerden, köken alan ve bulundukları yerde beyni zedeleyen ve bası yapan genellikle iyi huylu tümörlerdir. Genellikle yavaş büyürler ve ilk tanı konduğunda genellikle gamma knife cerrahisi yapılabilmesi için fazla büyük olarak bulunurlar. Gamma knife, tam olmayan mikrocerrahi çıkarmadan sonra ona ek olarak uygulanabilir. Bir diğer uygulama alanı ise cerrahi girişim uygulanamayan hastalardır.
+
+<h5>Hipofiz adenomlarında uygulanışı nasıldır?
+
+Bu hasta grubu çok özel bir grubu oluşturur. Hipofiz bezi beynin tabanında burun kökünün hemen arkasında yer alır. Hipofizde tümör oluşturabilecek üç çeşit hücre bulunur. Bu hastalıkta gamma knife genellikle cerrahiye destek olmak amacıyla, cerrahi sonrasında kalmış olabilecek tümör kalıntılarını yok etmek için kullanılır.
+
+<h5>Beyin metastazlarında uygulanışı nasıldır?
+
+En sık beyin metastazı yapan tümörler akciğer kanseri, meme kanseri ve böbrek kanseridir. Bunların dışında tiroid kanserleri ve melanomalar da beyin metastazı yapar. Bunlar ve diğer tümörlerin metastazlarında gamma knife kullanımından yüz güldürücü sonuçlar alınmıştır.
+
+<h5>Gliomalarda uygulanışı nasıldır?
+
+Gliomalar destek hücrelerinden köken alan kötü huylu tümörlerdir. Bu tümörlerin tedavisinde gamma knife cerrahisi kendi başına, cerrahi sonrasında ya da konvansiyonel fraksiyone radyasyon tedavisi ile birlikte kullanılabilir. Tümörün büyüklüğü gamma knife uygulanmasını engelleyebilir. Ancak küçük çaplı tümörlerde gamma knife uygulanabilir bir alternatif olabilir.
+
+<h5>Başka hangi tümörlerde kullanılabilir?
+
+Gamma knife ile tedaviye alınan diğer tümörler şunlardır: glomus jugulare, kraniyofarenjioma, kordoma, hemanjioblastoma, hemanjioendotelyoma, hemanjioperisitoma, pinealositoma.
+
+<h5>Tedavisinin avantaj ve dezavantajları nelerdir?
+
+Avantajları: Gamma knife girişimsel olmayan tek “cerrahi tedavi” yöntemidir. Yani kafatası açılmadan da cerrahi tedavi kesinliği sağlar. Gamma knife tedavisinden bir gün sonra hasta normal sosyal ve iş yaşantısına dönebilmektedir. Tedavide genel anestezinin kullanılmıyor olması bu nedenle açık cerrahi yapılamayan hastalarda tedaviyi mümkün kılar. Hastanede yatış süresi bir gündür. Hastanede yatış süresinin son derece kısa olması, yoğun bakıma gerek duyulmaması, hastanın hemen işine dönebilmesi, maliyeti son derece azaltır. Tedaviye bağlı ölüm riski %0.5’in altındadır. Tedaviye bağlı kalıcı sakatlık riski %2’nin altındadır. Tedaviye bağlı geçici sakatlık riski %3’ün altındadır. Dezavantajları: Gamma knife tedavisi etkisini belirli bir süre sonra (kötü huylu tümörler için 2-3 ay, damarsal hastalıklar için 1-2 sene) göstermektedir. Hastalarda gamma knife uygulanabilmesi için tümörün çapının 35-40 mm’den az olması gerekmektedir.
+
+<h5>Uygulamadan önce hastanın neler yapması gerekir?</h5>
+
+Gamma knife tedavisine hazırlanan bir hastanın yapması gerekenler şunlardır:
+
+Sürekli aldığınız ilaçları hekiminize belirtiniz. Bu ilaçların gamma knife tedavisinden hemen önce alınıp alınamayacağı size söylenecektir.
+Tedavi öncesindeki gece, gece yarısından sonra herhangi bir şey yemeyiniz, içmeyiniz.
+Hastaneye gelmeden bir gece önce ve aynı günün sabahı saçınızı ve kafanızı şampuanla yıkayınız.
+Hastaneye gelirken üstünde metal parça olmayan (fermuar veya düğme gibi), rahat kıyafetler giyiniz.
+Mücevherat veya saat takmayınız.
+Tedaviden önce ceplerinizi boşaltınız. Yanınızda kredi kartı veya cep telefonu getirmeyiniz. Bu aletler MRI’ın manyetik alanından etkilenip hasar görebilirler.
+
+
+				<div class="bottom-space-30"></div>
+				<div class="clearfix"></div>
+				<div class="row">
+					<div class="col-md-7">
+						
+					</div>
+					<div class="col-md-5">
+						<div class="post-quote">
+						
+						</div>
+					</div>
+				</div>
+				<div class="bottom-space-30"></div>
+				<div class="clearfix"></div>
+			
+				
+			<!--	<div class="sharepost">
+					<div class="row">
+						<div class="col-md-6">
+							<h4>Share this Post</h4>
+						</div>
+						<div class="col-md-6">
+							<ul>
+								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+								<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+								<li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+								<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+							</ul>
+						</div>
+					</div>-->
+				</div>
+			
+				
+			</article>
+		
+		
+		</div>
+		<aside class="col-md-3">
+			<div class="side-content">
+			
+				
+			</div>
+		
+			
+		
+		</aside>
+	</div>
+</div>
+
+<div class="footer2">
+	<img src="assets/img/logo/heartify-logo-lite.png" alt=""/>
+</div>
+<div class="footer2-bottom">
+		<div class="container">
+			<div class="col-md-6">
+				<p>Copyright 2015. <a href='http://creadvhouse.com' target='_blank'><b>creadvhouse</b></a>. All Rights Reserved.</p>
+			</div>
+			<div class="col-md-6">
+				<ul class="footer-social">
+					<li><a href="https://www.facebook.com/baunrs?_rdr=p"><i class="fa fa-facebook"></i></a></li>
+					<li><a href="https://twitter.com/baunrs"><i class="fa fa-twitter"></i></a></li>
+					<li><a href="https://plus.google.com/112724211330262611929/posts"><i class="fa fa-google-plus"></i></a></li>
+					
+				</ul>
+			</div>
+			<a href="javascript:void(0)" class="bttop"><img src="assets/img/backtotop.jpg" alt=""/></a>
+		</div>
+	</div>
+
+<script src="assets/js/jquery-1.9.1.min.js"></script>
+<script>
+	jQuery('.bttop').click(function(){
+		jQuery('html, body').animate({scrollTop:0}, 'slow');
+	});
+</script>
+
+</body>
+</html>
+
+
